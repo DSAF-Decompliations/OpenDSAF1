@@ -1,5 +1,5 @@
 # OpenDSAF1
-- A full decompilation of Dayshift At Freddy's 1 v1.01.
+- A full decompilation of Dayshift At Freddy's 1 v1.0.1.
 - I am not affiliated with DirectDoggo in any way.
 
 # Attribution
